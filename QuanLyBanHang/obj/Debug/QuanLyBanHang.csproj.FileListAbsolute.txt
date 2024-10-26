@@ -1,0 +1,20 @@
+E:\bt lập trình trực quan\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+E:\bt lập trình trực quan\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+E:\bt lập trình trực quan\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+E:\bt lập trình trực quan\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+E:\bt lập trình trực quan\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\bt lập trình trực quan\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+E:\bt lập trình trực quan\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+E:\bt lập trình trực quan\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+E:\bt lập trình trực quan\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+E:\bt lập trình trực quan\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMatHang.resources
+C:\Users\MODERN14\Downloads\LeThanhHuyen_221230861\LeThanhHuyen_221230861\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\MODERN14\Downloads\LeThanhHuyen_221230861\LeThanhHuyen_221230861\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\MODERN14\Downloads\LeThanhHuyen_221230861\LeThanhHuyen_221230861\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\MODERN14\Downloads\LeThanhHuyen_221230861\LeThanhHuyen_221230861\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\MODERN14\Downloads\LeThanhHuyen_221230861\LeThanhHuyen_221230861\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMatHang.resources
+C:\Users\MODERN14\Downloads\LeThanhHuyen_221230861\LeThanhHuyen_221230861\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\MODERN14\Downloads\LeThanhHuyen_221230861\LeThanhHuyen_221230861\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\MODERN14\Downloads\LeThanhHuyen_221230861\LeThanhHuyen_221230861\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\MODERN14\Downloads\LeThanhHuyen_221230861\LeThanhHuyen_221230861\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\MODERN14\Downloads\LeThanhHuyen_221230861\LeThanhHuyen_221230861\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
